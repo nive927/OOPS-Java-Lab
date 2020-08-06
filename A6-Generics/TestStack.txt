@@ -1,0 +1,254 @@
+----------------------
+Stack Menu
+----------------------
+1. Integer Stack
+2. Double Stack
+3. String Stack
+4. EXIT
+----------------------
+Enter your choice : 1
+
+--------------------------
+INTEGER Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 1
+Enter the value to push: 22
+--------------------------
+--------------------------
+INTEGER Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 1
+Enter the value to push: 19
+--------------------------
+--------------------------
+INTEGER Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 1
+Enter the value to push: 45
+--------------------------
+--------------------------
+INTEGER Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 3
+
+The Elements in the stack are (TOP TO BOTTOM)
+45
+19
+22
+--------------------------
+--------------------------
+INTEGER Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 2
+Value Popped: 45
+--------------------------
+INTEGER Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 3
+
+The Elements in the stack are (TOP TO BOTTOM)
+19
+22
+--------------------------
+--------------------------
+INTEGER Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 4
+----------------------
+Stack Menu
+----------------------
+1. Integer Stack
+2. Double Stack
+3. String Stack
+4. EXIT
+----------------------
+Enter your choice : 2
+
+--------------------------
+DOUBLE Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 1
+Enter the value to push: 99.76
+--------------------------
+--------------------------
+DOUBLE Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 1
+Enter the value to push: 23.1
+--------------------------
+--------------------------
+DOUBLE Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 2
+Value Popped: 23.1
+--------------------------
+DOUBLE Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 1
+Enter the value to push: 23.45
+--------------------------
+--------------------------
+DOUBLE Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 3
+
+The Elements in the stack are (TOP TO BOTTOM)
+23.45
+99.76
+--------------------------
+--------------------------
+DOUBLE Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 2
+Value Popped: 23.45
+--------------------------
+DOUBLE Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 4
+----------------------
+Stack Menu
+----------------------
+1. Integer Stack
+2. Double Stack
+3. String Stack
+4. EXIT
+----------------------
+Enter your choice : 3
+
+--------------------------
+STRING Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 1
+Enter the value to push: Paris
+--------------------------
+--------------------------
+STRING Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 1
+Enter the value to push: Madrid
+--------------------------
+--------------------------
+STRING Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice :3
+
+The Elements in the stack are (TOP TO BOTTOM)
+Madrid
+Paris
+--------------------------
+--------------------------
+STRING Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 2
+Value Popped: Madrid
+--------------------------
+STRING Stack
+--------------------------
+1. Push
+2. Pop
+3. Display
+4. Back
+--------------------------
+Enter your choice : 4
+----------------------
+Stack Menu
+----------------------
+1. Integer Stack
+2. Double Stack
+3. String Stack
+4. EXIT
+----------------------
+Enter your choice : 4
+
+
+

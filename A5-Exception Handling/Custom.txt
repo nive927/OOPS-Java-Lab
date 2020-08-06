@@ -1,0 +1,144 @@
+
+---------------------------------------
+NEW Customer Account Details
+---------------------------------------
+Enter Customer Name: Nive
+Enter Account Number: 9
+Enter Branch Name: Adyar
+Enter Balance: 500000
+Do you have a PAN Number?
+1:YES 2:NO
+Enter choice: 2
+---------------------------------------
+
+---------------------------------------
+NEW Customer Account Details
+---------------------------------------
+Enter Customer Name: Shreya
+Enter Account Number: 5
+Enter Branch Name: Besant Nagar
+Enter Balance: 20000
+Do you have a PAN Number?
+1:YES 2:NO
+Enter choice: 1
+Enter PAN: 123
+---------------------------------------
+
+------------------------------
+MENU for Bank Account
+------------------------------
+1. WITHDRAW
+2. DEPOSIT
+3. VIEW Account Details
+4. EXIT
+------------------------------
+Enter choice: 1
+Enter Account Number to withdraw from: 5
+Current Balance: 20000.0
+Enter amount to withdraw: 10000
+---------------------------------------
+Old Balance: 20000.0
+New Balance: 10000.0
+---------------------------------------
+
+------------------------------
+MENU for Bank Account
+------------------------------
+1. WITHDRAW
+2. DEPOSIT
+3. VIEW Account Details
+4. EXIT
+------------------------------
+Enter choice: 1
+Enter Account Number to withdraw from: 5
+Current Balance: 10000.0
+Enter amount to withdraw: 5000
+---------------------------------------
+Old Balance: 10000.0
+FAILED: Balance becomes lower than Minimum Requirement 10000!(MIN BAL REQUIRED EXCEPTION)
+
+------------------------------
+MENU for Bank Account
+------------------------------
+1. WITHDRAW
+2. DEPOSIT
+3. VIEW Account Details
+4. EXIT
+------------------------------
+Enter choice: 1
+Enter Account Number to withdraw from: 5
+Current Balance: 10000.0
+Enter amount to withdraw: 56700
+---------------------------------------
+Old Balance: 10000.0
+FAILED: Withdrawal is more than available Balance !(NO ENOUGH MONEY EXCEPTION)
+
+------------------------------
+MENU for Bank Account
+------------------------------
+1. WITHDRAW
+2. DEPOSIT
+3. VIEW Account Details
+4. EXIT
+------------------------------
+Enter choice: 2
+Enter Account Number to deposit into: 9
+Current Balance: 500000.0
+Enter amount to deposit: 78000
+---------------------------------------
+Old Balance: 500000.0
+FAILED: To deposit more than 50,000 PAN Number is MANDATORY !(PAN REQUIRED EXCEPTION)
+Enter PAN: 67
+
+------------------------------
+MENU for Bank Account
+------------------------------
+1. WITHDRAW
+2. DEPOSIT
+3. VIEW Account Details
+4. EXIT
+------------------------------
+Enter choice: 2
+Enter Account Number to deposit into: 9
+Current Balance: 500000.0
+Enter amount to deposit: 1000000
+---------------------------------------
+Old Balance: 1500000.0
+New Balance: 1500000.0
+---------------------------------------
+
+------------------------------
+MENU for Bank Account
+------------------------------
+1. WITHDRAW
+2. DEPOSIT
+3. VIEW Account Details
+4. EXIT
+------------------------------
+Enter choice: 2
+Enter Account Number to deposit into: 7
+FAILED: Account was NOT FOUND !(ACCOUNT NOT FOUND EXCEPTION)
+
+------------------------------
+MENU for Bank Account
+------------------------------
+1. WITHDRAW
+2. DEPOSIT
+3. VIEW Account Details
+4. EXIT
+------------------------------
+Enter choice: 1
+Enter Account Number to withdraw from: 8
+FAILED: Account was NOT FOUND !(ACCOUNT NOT FOUND EXCEPTION)
+
+------------------------------
+MENU for Bank Account
+------------------------------
+1. WITHDRAW
+2. DEPOSIT
+3. VIEW Account Details
+4. EXIT
+------------------------------
+Enter choice: 4
+
+

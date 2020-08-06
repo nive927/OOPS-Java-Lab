@@ -1,0 +1,68 @@
+------------------------------ 
+MENU for Currency Conversion                                                                                                                                                                                       ------------------------------ 
+1. DOLLAR to INR
+2. YEN to INR 
+3. EURO to INR
+4. EXIT
+------------------------------
+Enter choice: 1
+Enter DOLLAR amount: -500
+INVALID Format of Input Currency !
+TRY AGAIN !
+
+------------------------------ 
+MENU for Currency Conversion                                                                                                                                                                                       ------------------------------ 
+1. DOLLAR to INR
+2. YEN to INR 
+3. EURO to INR
+4. EXIT
+------------------------------
+Enter choice: 1
+Enter DOLLAR amount: qwerty
+INVALID Format of Input Currency !
+TRY AGAIN !
+
+------------------------------ 
+MENU for Currency Conversion                                                                                                                                                                                       ------------------------------ 
+1. DOLLAR to INR
+2. YEN to INR 
+3. EURO to INR
+4. EXIT
+------------------------------
+Enter choice: 1
+Enter DOLLAR amount: 10
+1 Dollar equals 71.81 INR
+INR Equivalent: 718.1
+
+------------------------------ 
+MENU for Currency Conversion                                                                                                                                                                                       ------------------------------ 
+1. DOLLAR to INR
+2. YEN to INR 
+3. EURO to INR
+4. EXIT
+------------------------------
+Enter choice: 2
+Enter YEN amount: 100
+1 YEN equals 0.67 INR
+INR Equivalent: 67.0
+
+------------------------------ 
+MENU for Currency Conversion                                                                                                                                                                                       ------------------------------ 
+1. DOLLAR to INR
+2. YEN to INR 
+3. EURO to INR
+4. EXIT
+------------------------------
+Enter choice: 3
+Enter EURO amount: 1000
+1 EURO equals 79.39 INR
+INR Equivalent: 79390.0 
+
+------------------------------ 
+MENU for Currency Conversion                                                                                                                                                                                       ------------------------------ 
+1. DOLLAR to INR
+2. YEN to INR 
+3. EURO to INR
+4. EXIT
+------------------------------
+Enter choice: 4

@@ -1,0 +1,47 @@
+
+---------------------------------------
+New Book Details
+---------------------------------------
+Enter Book Name: C Programming Language
+Enter Book Price: 5000
+Enter Book Quantity: 1
+---------------------------------------
+
+Enter the number of authors: 2
+
+---------------------------------------
+Details of Author 1
+---------------------------------------
+Enter Author Name: Brian Kernighan
+Enter Author Email: bk@gmail.com
+Enter Author Gender: M
+---------------------------------------
+---------------------------------------
+Details of Author 2
+---------------------------------------
+Enter Author Name: Dennis Ritchie
+Enter Author Email: dr@gmail.com
+Enter Author Gender: M
+---------------------------------------
+
+---------------------------------------
+Book Details
+---------------------------------------
+Name: C Programming Language
+Price: 5000.0
+Quantity: 1
+---------------------------------------
+Details of Author 1
+---------------------------------------
+Name: Brian Kernighan
+Email: bk@gmail.com
+Gender: M
+---------------------------------------
+Details of Author 2
+---------------------------------------
+Name: Dennis Ritchie
+Email: dr@gmail.com
+Gender: M
+---------------------------------------
+
+

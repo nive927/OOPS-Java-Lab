@@ -1,0 +1,345 @@
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 1
+
+Enter number of strings to be appended: 10
+Enter String: apple
+Enter String: grape
+Enter String: orange
+Enter String: banana
+Enter String: sapota
+Enter String: kiwi
+Enter String: strawberry
+Enter String: persimmon
+Enter String: guava
+Enter String: lemon
+Appended !
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 9
+
+Array List: [ apple,  grape,  orange,  banana,  sapota,  kiwi,  strawberry,  persimmon,  guava,  lemon ]
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 2
+
+Enter index for insertion: 2
+Enter String: kiwi
+String inserted !
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 9
+
+Array List: [ apple,  grape,  kiwi,  orange,  banana,  sapota,  kiwi,  strawberry,  persimmon,  guava,  lemon ]
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 3
+
+Enter String to search: kiwi
+kiwi OCCURS 2 times
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 3
+
+Enter String to search: melon
+melon DOESN'T OCCUR in the list
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 4
+
+Enter starting character of String: s
+Array List: [ sapota,  strawberry ]
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 9
+
+Array List: [ apple,  grape,  kiwi,  orange,  banana,  sapota,  kiwi,  strawberry,  persimmon,  guava,  lemon ]
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 5
+
+Enter substring: ra
+Array List: [ grape,  orange,  strawberry ]
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 5
+
+Enter substring: an
+Array List: [ orange,  banana ]
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 5
+
+Enter substring: on
+Array List: [ persimmon,  lemon ]
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 6
+
+Enter String to replace: sapota
+Enter Replacement String: chikoo
+String REPLACED !
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 9
+
+Array List: [ apple,  grape,  kiwi,  orange,  banana,  chikoo,  kiwi,  strawberry,  persimmon,  guava,  lemon ]
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 7
+
+Enter String: guava
+String REMOVED !
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 9
+
+Array List: [ apple,  grape,  kiwi,  oranage,  banana,  chikoo,  kiwi,  strawberry,  persimmon,  lemon ]
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 8
+
+Duplicates REMOVED !
+Array List: [ apple,  grape,  kiwi,  oranage,  banana,  chikoo,  strawberry,  persimmon,  lemon ]
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 9
+
+Array List: [ apple,  grape,  kiwi,  oranage,  banana,  chikoo,  strawberry,  persimmon,  lemon ]
+
+------------------------------
+MENU for String Array List
+------------------------------
+1.  APPEND
+2.  INSERT at specific index
+3.  Check occurence of element
+4.  List all strings that start with a given letter
+5.  List all strings with given substring
+6.  REPLACE string with given string
+7.  REMOVE specific element
+8.  REMOVE DUPLICATE
+9.  DISPLAY Array List
+10. EXIT
+------------------------------
+Enter choice: 10

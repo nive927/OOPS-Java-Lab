@@ -1,0 +1,52 @@
+
+---------------------------------------
+INPUT Student Details
+---------------------------------------
+Enter Aadhaar ID: 1041
+Enter Name: Shreya Kini
+Enter Address: 67 JB Apts, Ch-20
+Enter Gender: F
+Enter Program: Inheritance
+Enter Year: 2019
+Enter Total: 467
+---------------------------------------
+
+---------------------------------------
+INPUT Faculty Details
+---------------------------------------
+Enter Aadhaar ID: 111
+Enter Name: Malini
+Enter Address: 789 Kaveri Apts, Ch-90
+Enter Gender: F
+Enter Designation: Professor
+Enter Department: CHEM
+Enter Pay: 10000
+---------------------------------------
+
+---------------------------------------
+DISPLAY Student Details
+---------------------------------------
+Aadhaar ID: 1041
+Name: Shreya Kini
+Address: 67 JB Apts, Ch-20
+Gender: F
+Program: Inheritance
+Year: 2019
+Total: 467.0
+GPA: 9.34
+---------------------------------------
+
+---------------------------------------
+DISPLAY Faculty Details
+---------------------------------------
+Aadhaar ID: 111
+Name: Malini
+Address: 789 Kaveri Apts, Ch-90
+Gender: F
+Designation: Professor
+Department: CHEM
+Basic Pay: 10000.0
+Salary: 15350.0
+---------------------------------------
+
+

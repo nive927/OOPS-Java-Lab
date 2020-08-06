@@ -1,0 +1,82 @@
+
+---------------------------------------
+INPUT Employee Details
+---------------------------------------
+Enter Name: Shreya Kini
+Enter Address: 171 First Seaward Road, Ch-40
+Enter Employee ID: UCI16
+Enter Department: IT
+Enter Basic: 50000
+---------------------------------------
+
+---------------------------------------
+INPUT Faculty Details
+---------------------------------------
+Enter Name: Abirami Mahesh
+Enter Address: 7/11 Kuppam Road, Ch-40
+Enter Employee ID: AU1
+Enter Department: CSE
+Enter Basic: 25000
+Enter Designation: Professor Assisstant Professor
+Enter Course: Java
+---------------------------------------
+
+---------------------------------------
+INPUT Research Assisstant Details
+---------------------------------------
+Enter Name: Swati Vembu
+Enter Address: 67 Gandhi Road, Ch-20
+Enter Employee ID: NTU12
+Enter Department: ECE
+Enter Basic: 12000
+Enter Project: Data Science
+Enter Course: Computer Engineering
+Enter Marks Obtained
+Enter Mark1: 92
+Enter Mark2: 89
+Enter Mark3: 86
+---------------------------------------
+
+---------------------------------------
+DISPLAY Employee Details
+---------------------------------------
+Name: Shreya Kini
+Address: 171 First Seaward Road, Ch-40
+Employee ID: UCI16
+Department: IT
+Basic Pay: 50000.0
+Salary: 76750.0
+---------------------------------------
+
+
+---------------------------------------
+DISPLAY Faculty Details
+---------------------------------------
+Name: Abirami Mahesh
+Address: 7/11 Kuppam Road, Ch-40
+Employee ID: AU1
+Department: CSE
+Basic Pay: 25000.0
+Designation: Assisstant Professor
+Course: Java
+Salary: 35375.0
+---------------------------------------
+
+
+---------------------------------------
+DISPLAY Research Assisstant Details
+---------------------------------------
+Name: Swati Vembu
+Address: 67 Gandhi Road, Ch-20
+Employee ID: NTU12
+Department: ECE
+Basic Pay: 12000.0
+Project: Data Science
+Course: Computer Engineering
+Marks Obtained: 92.0 89.0 86.0
+GPA: 8.9
+Salary: 15180.0
+---------------------------------------
+
+
+

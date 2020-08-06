@@ -1,0 +1,66 @@
+--------------------------
+SORT Menu
+--------------------------
+1. INTEGER Array
+2. DOUBLE Array
+3. STRING Array
+4. EXIT
+--------------------------
+Enter your choice: 1
+
+Enter the size of the array: 5
+Enter Element : 56
+Enter Element : 99
+Enter Element : 12
+Enter Element : 32
+Enter Element : 71
+
+SORTED Array: 12 32 56 71 99 
+--------------------------
+SORT Menu
+--------------------------
+1. INTEGER Array
+2. DOUBLE Array
+3. STRING Array
+4. EXIT
+--------------------------
+Enter your choice: 2
+
+Enter the size of the array: 5
+Enter the Element : 89.21
+Enter the Element : 999.635
+Enter the Element : 87.011
+Enter the Element : 42.5
+Enter the Element : 892.7
+
+SORTED Array: 42.5 87.011 89.21 892.7 999.635 
+--------------------------
+SORT Menu
+--------------------------
+1. INTEGER Array
+2. DOUBLE Array
+3. STRING Array
+4. EXIT
+--------------------------
+Enter your choice: 3
+
+Enter the size of the array: 5
+Enter the String : Paris
+Enter the String : Vienna
+Enter the String : Madrid
+Enter the String : Rome
+Enter the String : Genovia
+
+SORTED Array: Genovia Madrid Paris Rome Vienna 
+--------------------------
+SORT Menu
+--------------------------
+1. INTEGER Array
+2. DOUBLE Array
+3. STRING Array
+4. EXIT
+--------------------------
+Enter your choice: 4
+
+
+
